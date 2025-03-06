@@ -50,5 +50,3 @@ jobs:
         git commit -am "Inject Tag"
         git push
 
-:!mkdir -p %:h
-:w
